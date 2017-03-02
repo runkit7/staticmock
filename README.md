@@ -1,5 +1,5 @@
 # StaticMock
-[![Build Status](https://travis-ci.org/tototoshi/staticmock.png)](https://travis-ci.org/tototoshi/staticmock)
+[![Build Status](https://travis-ci.org/runkit7/staticmock.svg?branch=master)](https://travis-ci.org/runkit7/staticmock)
 
 A mockery-like DSL to replace static methods in test.
 
